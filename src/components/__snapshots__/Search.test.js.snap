@@ -1,0 +1,83 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search renders correctly renders correctly 1`] = `
+<div>
+  <div
+    className="row"
+  >
+    <p>
+      PAGE 1 OF ABOUT 
+      2
+       RESULTS (0.18 SECONDS)
+    </p>
+  </div>
+  <div
+    className="row"
+  >
+    <div
+      className="col-lg-2 col-sm-4 col-md-3"
+    >
+      <div
+        className="card"
+      >
+        <img
+          alt="Book cover"
+          className="card-img-top pl-2 pr-2 pt-2"
+          height="200px"
+          onClick={[Function]}
+          src="https://images.gr-assets.com/books/1474154022m/3.jpg"
+        />
+        <div
+          className="card-body"
+        >
+          <p
+            className="text-sm-left card-title "
+            data-placement="bottom"
+            data-toggle="tooltip"
+            title="Harry Potter and the Sorcerer's Stone (Harry Potter, #1)"
+          >
+            Harry Potter and the...
+          </p>
+          <p
+            className="text-sm-left card-text"
+          >
+            J.K. Rowling
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="col-lg-2 col-sm-4 col-md-3"
+    >
+      <div
+        className="card"
+      >
+        <img
+          alt="Book cover"
+          className="card-img-top pl-2 pr-2 pt-2"
+          height="200px"
+          onClick={[Function]}
+          src="https://images.gr-assets.com/books/1499277281m/5.jpg"
+        />
+        <div
+          className="card-body"
+        >
+          <p
+            className="text-sm-left card-title "
+            data-placement="bottom"
+            data-toggle="tooltip"
+            title="Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)"
+          >
+            Harry Potter and the...
+          </p>
+          <p
+            className="text-sm-left card-text"
+          >
+            J.K. Rowling
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,9 +1,10 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 import App from './App';
 
+import { shallow } from 'enzyme'
+
 it('renders without crashing', () => {
-  const div = document.createElement('div');
-  ReactDOM.render(<App />, div);
-  ReactDOM.unmountComponentAtNode(div);
+  const wrapper = shallow(<App />);
+  const Title = <h3 className="text-muted">Goodreads Book Search </h3>;
+  expect(wrapper.contains(Title)).toEqual(true);
 });

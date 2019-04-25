@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BookInfo renders correctly renders correctly 1`] = `
+<div
+  className="row col-lg-12"
+>
+  <div
+    className="col-lg-2 col-sm-4"
+  >
+    <img
+      alt="book cover"
+      height="200px"
+      src="https://images.gr-assets.com/books/1320562005m/4214.jpg"
+      width="130px"
+    />
+  </div>
+  <div
+    className="col-lg-10 col-sm-8"
+  >
+    <h3
+      className="mb-3"
+    >
+      Life of Pi
+    </h3>
+    <p>
+      By:
+       
+    </p>
+    <p>
+      Avg. Rating: 
+    </p>
+    <p
+      dangerouslySetInnerHTML={
+        Object {
+          "__html": "Fetching description for this book...",
+        }
+      }
+    />
+  </div>
+  <div>
+    <p>
+      Published Date:
+       
+      undefined/undefined/undefined
+      .
+       
+    </p>
+    <button
+      className="btn btn-primary"
+    >
+      Go Back
+    </button>
+  </div>
+</div>
+`;
