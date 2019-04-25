@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/good-reads/static/css/main.0e6e9412.chunk.css",
+    "main.js": "/good-reads/static/js/main.e58677f1.chunk.js",
+    "main.js.map": "/good-reads/static/js/main.e58677f1.chunk.js.map",
+    "runtime~main.js": "/good-reads/static/js/runtime~main.56495119.js",
+    "runtime~main.js.map": "/good-reads/static/js/runtime~main.56495119.js.map",
+    "static/js/2.7d972699.chunk.js": "/good-reads/static/js/2.7d972699.chunk.js",
+    "static/js/2.7d972699.chunk.js.map": "/good-reads/static/js/2.7d972699.chunk.js.map",
+    "index.html": "/good-reads/index.html",
+    "precache-manifest.4390f069791feeea33614f7ab503a8c4.js": "/good-reads/precache-manifest.4390f069791feeea33614f7ab503a8c4.js",
+    "service-worker.js": "/good-reads/service-worker.js",
+    "static/css/main.0e6e9412.chunk.css.map": "/good-reads/static/css/main.0e6e9412.chunk.css.map"
+  }
+}
